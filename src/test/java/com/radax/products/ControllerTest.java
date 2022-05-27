@@ -25,5 +25,9 @@ class ControllerTest {
     void test4() {
         assertEquals("ma", "m" + "a");
     }
+    @Test
+    void test5() {
+        assertEquals("ma1", "m" + "a1");
+    }
 
 }
