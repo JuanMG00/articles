@@ -27,7 +27,7 @@ class ControllerTest {
     }
     @Test
     void test5() {
-        assertEquals("ma1", "m" + "a1");
+        assertEquals("ma1", "m" + "a11");
     }
 
 }
