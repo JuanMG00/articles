@@ -12,7 +12,7 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "product", schema = "test_shop_db")
+@Table(name = "product")
 @Getter
 @Setter
 @JsonInclude(JsonInclude.Include.NON_NULL)
